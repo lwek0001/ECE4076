@@ -1,7 +1,9 @@
-# ECE4076
-Interactive class notebooks for ECE4076 Computer Vision.
+# ECE4076/5176
+Interactive class notebooks for ECE4076/5176 Computer Vision.
 
-ECE4076 is a computer vision unit at Monash University, covering both classical computer vision and modern deep learning methods. These notebooks are in class activities used alongside pre-recorded lectures covering more detailed material, and paired with laboratory sessions where students implement related concepts.
+ECE4076/5176 is a computer vision unit at Monash University, covering both classical computer vision and modern deep learning methods. These notebooks are in class activities used alongside pre-recorded lectures covering more detailed material, and paired with laboratory sessions where students implement related concepts.
+
+You may want to brush up on some python skills before attempting these, using this [notebook](https://github.com/jhy9968/CV_python_intro_ws).
 
 - Week 1: Image handling and basic manipulation, high dimensional signals 
 - Week 2: Image filtering, Difference of Gaussians, Keypoint Detection, Patch Matching using SSD
@@ -16,11 +18,15 @@ ECE4076 is a computer vision unit at Monash University, covering both classical 
 - Week 11: Object recognition with RCNNs and YOLO
 - Week 12: Image segmentation with U-Nets
 
-There is some additional material we unfortunately don't have time to cover in class in the [bonus content folder ](/bonus_content)
-* Vision transformers 
-* Generative Adversarial Networks (todo)
-* Variational Autoencoders (todo)
+There is some additional material we unfortunately don't have time to cover in class in the [bonus content folder ](/bonus_content).
+* Vision transformers
+* Variational autoencoders
+* Generative Adversarial Networks
 * Clip (to be improved)
-* Diffusion models (todo)
+* Diffusion models (to be improved - make it actually work)
 
+Contributors:
+
+* Michael Burke
+* Mehrtash Harandi
 
